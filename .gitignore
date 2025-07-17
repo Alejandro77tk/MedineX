@@ -1,0 +1,9 @@
+build/*
+!build/assets/
+__pycache__/
+*.pyc
+*.pyo
+*.exe
+*.zip
+*.toc
+*.pyz
