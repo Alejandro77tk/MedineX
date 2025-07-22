@@ -59,10 +59,7 @@ gestor_medico/
     Los datos se almacenan localmente en hospital.db
     Data is stored locally in hospital.db
 
-## 📸 Capturas de pantalla / Screenshots
 
-(Agrega aquí imágenes si quieres mostrar la app en funcionamiento)
-(Add images here if you want to show the app working)
 ## 📖 Licencia / License
 
 Este proyecto es de uso libre para fines educativos o personales
